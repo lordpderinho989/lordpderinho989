@@ -1,6 +1,7 @@
 ### Olá, Pedro Soares aqui! 👨‍💻
 
 Estudante e fúturo tecnólogo em Desenvolvimento de sistemas formado pelo Senai
+Cursando Análise e Desenvolvimento de sistemas pela Fatec Sorocaba
 ### 👀 Estou a procura de uma vaga no momento 👀
 
 ## ⚡ Minhas Habilidades
